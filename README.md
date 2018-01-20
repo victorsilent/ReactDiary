@@ -25,3 +25,7 @@ Components
 
 * Important things:
     * Swtich componente create an "validator" to routes that check the routes previously created and display the first route that match with the current URL, if that URL don't have one matched route you can set a "default" route that display a 404 page.
+
+
+19/01/2018 - Hihi so much time without comment here, let's update! At past days I've study so much about redux and firebase! I am almost finishing my first app with that! Ok, it's a simple todolist with crud operations, but it's ok for me at this time <3
+At the end of month I want to be confident to build more complex things with react+redux+firebase, but I need to knew more about how to update my current state based on firebase database.
