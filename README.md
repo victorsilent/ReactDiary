@@ -29,3 +29,9 @@ Components
 
 19/01/2018 - Hihi so much time without comment here, let's update! At past days I've study so much about redux and firebase! I am almost finishing my first app with that! Ok, it's a simple todolist with crud operations, but it's ok for me at this time <3
 At the end of month I want to be confident to build more complex things with react+redux+firebase, but I need to knew more about how to update my current state based on firebase database.
+
+21/01/2018 -  Ok, yesterday and today were a rest days for me, so I haven't study at all. The only things that I made were two methods of my todo-list app with firebase and learned that I don't need to control all my data at redux if Firebase is running as backend, because the data have already state management at server, the only thing that I need to do is listen the changes and update my app correctly.
+* Important things that I need to do at the next week: 
+    * Use react router with one app at firebase
+    * Learn more about HOC and React components patterns
+    * Watch more video lessons to see more ways to build an app.
