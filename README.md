@@ -35,3 +35,5 @@ At the end of month I want to be confident to build more complex things with rea
     * Use react router with one app at firebase
     * Learn more about HOC and React components patterns
     * Watch more video lessons to see more ways to build an app.
+    
+31/01/2018 -  So many days without update again, hihi, past week I received a challenge to learn and create an app with react-native, it was a great challenge and I've almost done, except by the problem with one lib (react-native- navigation) probably I've forgot something at configs or set it to incompatible versions of packages at project, react-native/react-native-navigation/SDKs... Btw, I learned a lot, the main thing was the concept of containers and components , because react-native uses "screens" and components, and there, I can associate with containers and components of normal reactjs project :)
