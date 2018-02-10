@@ -37,3 +37,6 @@ At the end of month I want to be confident to build more complex things with rea
     * Watch more video lessons to see more ways to build an app.
     
 31/01/2018 -  So many days without update again, hihi, past week I received a challenge to learn and create an app with react-native, it was a great challenge and I've almost done, except by the problem with one lib (react-native- navigation) probably I've forgot something at configs or set it to incompatible versions of packages at project, react-native/react-native-navigation/SDKs... Btw, I learned a lot, the main thing was the concept of containers and components , because react-native uses "screens" and components, and there, I can associate with containers and components of normal reactjs project :)
+
+10/02/2018 - Yeah, another couple days without updating here, but I'm was not studying ReactJS, I've found some lack of knowledgement that made me delay my code production, so I stopped with reactjs to start some personal projects that will bring me the confidence to continue my path at reactjs.
+Just to make it registred, I'm studying flexbox grid ([Bijoux - Case Study CSS Framework](https://github.com/victorsilent/bijux)) and Javascript (Functions and DOM, this time only the advanced parts)
